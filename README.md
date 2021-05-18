@@ -1,2 +1,3 @@
 # responsive application
- Página responsiva com CSS puro.
+ Página responsiva com CSS puro, utilizando Flexbox.
+ 
